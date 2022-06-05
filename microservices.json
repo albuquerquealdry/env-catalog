@@ -8,8 +8,32 @@
         "prod": "8871"
     },
     "REDIS_HOST": {
-        "dev" :  "redis.preprod.com",
-        "prod": "redis.prod.com"
+        "dev" :  "redis.gokudocabo.yaml",
+        "prod": "redis.gokudocabo.yaml"
+    },
+    "JUAO_ENV": {
+        "dev" :  "4",
+        "prod": "5"
+    },
+    "PEDRO_ENV": {
+        "dev" :  "asas",
+        "prod": "lilraffbro.com"
+    },
+    "FROID_ENV": {
+        "dev" :  "froidinho",
+        "prod": "froidinho"
+    },
+    "DJONGA_ENV": {
+        "dev" :  "djongador",
+        "prod": "sensassão"
+    },
+    "DOKA_ENV": {
+        "dev" :  "doka",
+        "prod": "poche"
+    },
+    "KID_LAROI": {
+        "dev" :  "ASX",
+        "prod": "ASAOJS"
     }
-
+    
 }
