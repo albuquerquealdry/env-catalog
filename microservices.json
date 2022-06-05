@@ -25,7 +25,7 @@
     },
     "DJONGA_ENV": {
         "dev" :  "djongador",
-        "prod": "sensassão"
+        "prod": "sensação"
     },
     "DOKA_ENV": {
         "dev" :  "doka",
