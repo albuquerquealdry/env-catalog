@@ -12,8 +12,8 @@
         "prod": "redis.gokudocabo.yaml"
     },
     "JUAO_ENV": {
-        "dev" :  "4",
-        "prod": "5"
+        "dev" :  "juaopaulo",
+        "prod": "zica"
     },
     "PEDRO_ENV": {
         "dev" :  "asas",
