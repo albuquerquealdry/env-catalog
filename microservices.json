@@ -1,7 +1,7 @@
 {
     "MONGO_DB_HOST": {
         "dev" : "mongo_db_cloud.com.br",
-        "prod": "mongo_db_cloud.com.br"
+        "prod": "mongo_db_cloud.com.br.fortify"
     },
     "MONGO_DB_PORT": {
         "dev" :  "0666",
