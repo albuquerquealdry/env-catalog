@@ -35,9 +35,8 @@
         "dev" :  "ASX",
         "prod": "ASAOJS"
     },
-    "ENV_NEW": {
-        "dev" :  "ASX",
-        "prod": "higor_lindinho<3"
+    "TESTE_ENV":{
+        "prod" : "teste"
     }
     
 }
