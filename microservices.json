@@ -35,7 +35,7 @@
         "dev" :  "ASX",
         "prod": "ASAOJS"
     },
-    "TESTE_ENV":{
+    "spring.data.mongodb.host":{
         "prod" : "teste"
     }
     
