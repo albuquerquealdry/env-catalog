@@ -36,7 +36,7 @@
         "prod": "ASAOJS"
     },
     "spring.data.mongodb.host":{
-        "prod" : "teste"
+        "prod": "teste"
     }
     
 }
